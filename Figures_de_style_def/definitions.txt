@@ -1,0 +1,120 @@
+#alliteration
+Nom féminin. Répétition de consonnes.
+
+#assonance
+Nom féminin. Répétition de voyelles.
+
+#épizeuxe
+Nom féminin. Redoublement de quelques mots pour marquer leur intérêt.
+
+#antanaclase
+Nom féminin. Le mot est répété mais avec deux sens différents.
+
+#chiasme
+Nom masculin. Figure de style qui inverse l'ordre de deux groupes de mots à la syntaxe identique.
+
+#antithese
+Nom féminin. Elle rapproche deux termes opposés.
+
+#oxymore
+Nom féminin. Association de deux termes de sens contraire dans un même groupe de mots.
+
+#metonymie
+Nom féminin. Figure de style où on disgne un objet ou un être par un autre nom que le sien.
+
+#periphrase
+Nom féminin. Remplacement d'un terme par sa définition.
+
+#comparaison
+Nom féminin. Rapprochement de deux terme à l'aide d'un outil de comparaison.
+
+#metaphore
+Nom féminin. C'est une comparaison sans l'outil de comparaison.
+
+#litote
+Nom féminin. Figure de style qui consiste à dire moins pour faire entendre plus.
+
+#euphemisme
+Nom masculin. Emploi de termes adoucis pour désigner une réalité trop cruelle, taboue.
+
+#hyperbole
+Nom féminin. Utilisation de termes forts, exagérés.
+
+#antiphrase
+Nom féminin. Figure de style où l'on exprime le contraire de ce que l'on pense.
+
+#catachrese
+La catachrèse est une figure de style qui consiste à détourner un mot ou une expression de son sens propre en étendant sa signification.  
+En soit, une catachrèse peu être une forme de métaphore ou d'antonomase.  
+exemples : le *pied* d'une table, être à *cheval* sur une chaise.  
+exemples de catachrèses *cachée* : *"démarrer"* (détacher les amarres), *"partir"* (disposer en parts), *"déclencher"* (lever la clenche)
+
+#chiasme
+On retiendra qu'un chiasme sera **toutes formes** de croisements de mots, syllabes, vers, phrases, etc.  
+Formellement nous pouvons distinguer 4 types de chiasmes.  
+* AB/BA l'antimétabole, où les composantes A sont identiques entre elles ainsi que les composantes B ;  
+* AB/B'A le chiasme épanadiploïque, où les composantes A sont identiques mais pas les composantes B ;  
+* AB/BA' le chiasme anadiploïque, où les composantes B sont identiques mais pas les composantes A ;  
+* AB/B'A' le chiasme abstrait. Apportant la plus grande flexibilité, c'est aussi celui des chiasmes les plus célèbres ;  
+
+#chiasme_def_longue
+Le chiasme (substantif masculin), du grec χιασμός : khiasmós (disposition en croix, croisement) provenant de la lettre grecque khi (« X ») en forme de croix (prononcer /kjasm/ « kyasm »),  
+est une figure de style qui consiste en un croisement d'éléments dans une phrase ou dans un ensemble de phrases sur un modèle AB/BA  
+et qui a pour effet de donner du rythme à une phrase ou d'établir des parallèles. Le chiasme peut aussi souligner l'union de deux réalités ou renforcer une antithèse dans une phrase. 
+
+#chiasme_ergatif
+Ce chiasme joue sur la voix des mots employés. Généralement de forme ABB'A', B sera à la voix *active* et B' à la voix *passive* (ou vice-versa).  
+exemple : "Et osent les vaincus les vainqueurs dédaigner" -- Joachim du Bellay.  
+vaincus <=> vainqueurs || passif <=> actif
+
+#chiasme_grammatical
+Le croisement dit chiasmatique s'opère entre des termes appartenant deux à deux à une même nature grammaticale (deux noms, deux verbes ou deux adjectifs, etc),  
+soit de même nature, soit de même fonction (complément, sujet, épithète...).  
+Elle permet dès lors que deux syntagmes se suivent de façon symétrique : adjectif + nom / nom + adjectif ou inversement.  
+
+exemple : "On passe souvent de l'amour à l'ambition, mais on ne revient guère de l'ambition à l'amour" -- La Rochefoucauld, Maximes  
+Ici nous avons un croisement entre "ambition" et "amour".
+
+#chiasme_multiple
+Forme très rare de chiasme. Il sera généralement de la forme ABC/C'B'A' et jouera sur 2 paires de chiasmes imbriqués (AB/BC).  
+exemple : "Un roi chantait en bas, en haut mourait un dieu." -- Victor Hugo.  
+(roi <=> dieu)         AA' sont en relation sémantique.  
+(chantait <=> mourait) BB' en relation grammaticale.  
+(bas <=> haut)         CC' en relation antithétique.  
+
+#chiasme_phonetique
+Ce chiasme est plus subtil et requiert une oreille aguerrie pour le détecter.  
+Généralement il est conseillé de le lire à voix haute pour sentir qu'un croisement est opéré dans les syllabes/phonèmes.  
+exemple : "Je préfère les assauts des pique-assiettes aux assiettes de Picasso." -- Jean Cocteau.  
+Picasso <=> pique-assiettes  
+
+Voici deux autres exemples de chiasmes phonétiques plus subtil :  
+"La méharée s'arrêta" (chiasme par assonance é-a-é / a-é-a)  
+"Les tulipes lutines" (chiasme par allitération t-l / l-t)  
+
+#chiasme_semantique
+Un chiasme sémantique croise les champs sémantique des mots (on le croisera le plus souvent sous la forme ABB'A').  
+exemple : "Troie aux Grecs, au fils d'Hector la Grèce" -- Jean Racine, Andromaque  
+Grecs <=> Fils d'Hector  
+Troie <=> Grèce
+
+#zeugma_def_longue
+Le zeugma (du grec ancien ζεῦγμα / zeûgma, « joug, lien ») ou zeugme, ou encore attelage, est une figure de style qui consiste à faire dépendre d'un même mot  
+deux termes disparates qui entretiennent avec lui des rapports différents, en sous-entendant un adjectif ou un verbe déjà exprimé. Il s'agit donc d'une forme d'ellipse.  
+On distingue le zeugma syntaxique, quand le terme non répété est utilisé dans le même sens que déjà exprimé, du zeugma sémantique,  
+où le terme occulté est utilisé dans un sens différent de celui déjà exprimé. Cette dernière figure, appelée également attelage,  
+associe le plus souvent deux compléments d'objet, l'un de sens concret et l'autre de sens abstrait, pour un effet humoristique voire ironique.
+
+#zeugma_semantique
+Souvent comique, parfois poétique, le zeugma semantique joue sur deux plans.  
+Il est construit de sorte à rattracher deux noms qui n'ont rien à voir ensemble (sémantiquement) à un adjectif commun.  
+exemple : "Trois marchandes de boisson et d’amour." -- Guy de Maupassant, Bel-Ami.  
+
+#zeugma_syntaxique
+Le zeugma syntaxique est simple de construction. Il s'agit simplement d'éviter une répétition dans une phrase lorsqu'on utilise des COI ou COD.  
+exemple : "Il croyait à son étoile et qu’un certain bonheur lui était dû." -- André Gide, Les Faux-monnayeurs  
+Dans cette phrase "Il" *croyait* à son étoile et "Il" *croyait* qu'un certain bonheur lui était dû. Le verbe n'est pourtant utilisé qu'une seule fois.
+
+
+
+

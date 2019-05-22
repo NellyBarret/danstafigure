@@ -1,0 +1,13 @@
+{
+    "prefix": "!",
+    "token": "NTQyNjI0OTE2MDUxMzI5MDQ0.DzwvdQ.bVt--dMQp1riy6QzNV6RhoWYdf0",
+    "access": "QyAM-SWswKxGZRFtbFr7",
+    "uri": "https://forge.univ-lyon1.fr/api/v4/projects/8522/",
+    "botfile" : "repository/blobs/",
+    "ref" : "ref=master",
+    "utilfile": "fds_bot.json",
+    "questionFile": "questions.json",
+    "projectid": "8522",
+    "annulation": "stop",
+    "files": "repository/files/"
+}

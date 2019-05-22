@@ -1,0 +1,7 @@
+/chatbot/node_modules/
+/chatbot/*.png
+/chatbot/data/enmap.sqlite-shm
+/chatbot/data/enmap.sqlite-wal
+/chatbot/.vscode/
+/chatbot/package-lock.json
+**/.DS_Store

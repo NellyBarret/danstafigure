@@ -1,0 +1,66 @@
+{
+    "accumulation": {
+        "courte": "Nom féminin. Succession de plusieurs termes pour approfondir la pensée ou l'agrandir."
+    },
+    "alliteration": {
+        "courte" : "Nom féminin. Répétition de consonnes.",
+        "longue": "Répétition des consonnes initiales ou intérieures dans une suite de mots pour obtenir un effet d'harmonie, de pittoresque ou de surprise."
+    },
+    "antanaclase": {
+        "courte" : "Nom féminin. Le mot est répété mais avec deux sens différents.",
+        "longue": "Figure de style qui consiste en une répétition d'un mot ou d'une expression en lui donnant une autre signification également reçue mais toujours de sens propre."
+    },
+    "antiphrase": {
+        "courte" : "Nom féminin. Figure de style où l'on exprime le contraire de ce que l'on pense."
+    },
+    "antithese": {
+        "courte" : "Nom féminin. Elle rapproche deux propositions opposées.",
+        "longue" : "Figure d'opposition, l'antithèse se manifeste par le rapprochement de deux antonymes. \n L'antithèse est souvent formalisée par une symétrie entre les termes opposés, à travers des structures parallèles et équilibrées reposant sur la figure du parallélisme, mais au sémantisme contradictoire."
+    },
+    "assonance": {
+        "courte" : "Nom féminin. Répétition de voyelles.",
+        "longue" : "Figure de style qui consiste en la répétition d'un même son vocalique (phonème) dans plusieurs mots proches."
+    },
+    "chiasme": {
+        "courte" : "Nom masculin. Figure de style qui inverse l'ordre de deux groupes de mots à la syntaxe identique.",
+        "longue" : "On retiendra qu'un chiasme sera **toutes formes** de croisements de mots, syllabes, vers, phrases, etc. \n Formellement nous pouvons distinguer 4 types de chiasmes.  \n * AB/BA l'antimétabole, où les composantes A sont identiques entre elles ainsi que les composantes B ;  \n * AB/B'A le chiasme épanadiploïque, où les composantes A sont identiques mais pas les composantes B ;   \n * AB/BA' le chiasme anadiploïque, où les composantes B sont identiques mais pas les composantes A ;  \n * AB/B'A' le chiasme abstrait. Apportant la plus grande flexibilité, c'est aussi celui des chiasmes les plus célèbres ;",
+        "speciale" : "Il existe d'autres sortes de chiasmes : ergatif, grammatical, multiple, phonétique, sémantique."
+    },
+    "comparaison": {
+        "courte" : "Nom féminin. Rapprochement de deux terme à l'aide d'un outil de comparaison."
+    },
+    "épizeuxe": {
+        "courte" : "Nom féminin. Redoublement de mots pour marquer leur intérêt.",
+        "longue" : "L'épizeuxe est une opération morpho-syntaxique, c'est-à-dire qu'elle porte sur la forme du mot répété et sur la construction de la phrase. Elle se démarque du reste de la phrase par une répétition immédiate et contiguë d'une proposition ou d'un mot."
+    },
+    "euphemisme": {
+        "courte" : "Nom masculin. Emploi de termes adoucis pour désigner une réalité trop cruelle, taboue.",
+        "longue" : "Un euphémisme est une figure de style qui consiste à atténuer l'expression de faits ou d'idées considérés comme désagréables dans le but d'adoucir la réalité. \n Au contraire d'autres figures, l'euphémisme ne met pas en œuvre de réels moyens techniques et linguistiques : on le repère par l'effet qu'il produit, et par un écart constaté avec la réalité ou l'idée masquée."
+    },
+    "gradation": {
+        "courte" : "Nom féminin. Elle ordonne les termes d'un énoncé selon une progression croissante ou décroissante."
+    },
+    "hyperbole": {
+        "courte" : "Nom féminin. Utilisation de termes forts, exagérés.",
+        "longue" : "L'hyperbole opère une transformation sémantique (il s'agit d'exagérer le sens d'une idée ou d'une réalité) par répétition d'éléments à l'identique (de même portée)."
+    },
+    "litote": {
+        "courte" : "Nom féminin. Figure de style qui consiste à dire moins pour faire entendre plus."
+    },
+    "metaphore": {
+        "courte" : "Nom féminin. C'est une comparaison sans l'outil de comparaison."
+    },
+    "metonymie": {
+        "courte" : "Nom féminin. Figure de style où on disgne un objet ou un être par un autre nom que le sien."
+    },
+    "oxymore": {
+        "courte" : "Nom féminin. Association de deux termes de sens contraire dans un même groupe de mots."
+    },
+    "periphrase": {
+        "courte" : "Nom féminin. Remplacement d'un terme par sa définition."
+    },
+    "zeugma": {
+        "courte" : "Procédé rhétorique qui consiste à coordonner des éléments qui ne sont pas sur le même plan syntaxique.",
+        "speciale" : "Deux autres types de zeugma existent : sémantique et syntaxique."
+    }
+}

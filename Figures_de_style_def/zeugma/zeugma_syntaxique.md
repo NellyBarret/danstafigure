@@ -1,0 +1,3 @@
+Le zeugma syntaxique est simple de construction. Il s'agit simplement d'éviter une répétition dans une phrase lorsqu'on utilise des COI ou COD.  
+exemple : "Il croyait à son étoile et qu’un certain bonheur lui était dû." -- André Gide, Les Faux-monnayeurs  
+Dans cette phrase "Il" *croyait* à son étoile et "Il" *croyait* qu'un certain bonheur lui était dû. Le verbe n'est pourtant utilisé qu'une seule fois.  

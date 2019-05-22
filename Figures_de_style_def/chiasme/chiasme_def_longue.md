@@ -1,0 +1,3 @@
+Le chiasme (substantif masculin), du grec χιασμός : khiasmós (disposition en croix, croisement) provenant de la lettre grecque khi (« X ») en forme de croix (prononcer /kjasm/ « kyasm »),  
+est une figure de style qui consiste en un croisement d'éléments dans une phrase ou dans un ensemble de phrases sur un modèle AB/BA  
+et qui a pour effet de donner du rythme à une phrase ou d'établir des parallèles. Le chiasme peut aussi souligner l'union de deux réalités ou renforcer une antithèse dans une phrase. 

@@ -1,0 +1,170 @@
+{
+    "alliteration": {
+        "realname": "allitération",
+        "nbquestions": "13",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "anaphore": {
+        "realname": "anaphore",
+        "nbquestions": "4",
+        "image": "0",
+        "logo": "0",
+        "def": "false"
+    },
+    "antanaclase": {
+        "realname": "antanaclase",
+        "nbquestions": "5",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "antiphrase": {
+        "realname": "antiphrase",
+        "nbquestions": "1",
+        "image": "0",
+        "logo": "0",
+        "def": "false"
+    },
+    "antithese": {
+        "realname": "antithèse",
+        "nbquestions": "10",
+        "image": "0",
+        "logo": "0",
+        "def": "false"
+    },
+    "antonomase": {
+        "realname": "antonomase",
+        "nbquestions": "4",
+        "image": "0",
+        "logo": "0",
+        "def": "false"
+    },
+    "assonance": {
+        "realname": "assonance",
+        "nbquestions": "5",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "asyndete": {
+        "realname": "asyndète",
+        "nbquestions": "2",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "chiasme": {
+        "realname": "chiasme",
+        "nbquestions": "10",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "comparaison": {
+        "realname": "comparaison",
+        "nbquestions": "19",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "enallage": {
+        "realname": "énallage",
+        "nbquestions": "7",
+        "image": "0",
+        "logo": "0",
+        "def": "false"
+    },
+    "epizeuxe": {
+        "realname": "épizeuxe",
+        "nbquestions": "4",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "euphemisme": {
+        "realname": "euphémisme",
+        "nbquestions": "15",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "homeoteleute": {
+        "realname": "homéotéleute",
+        "nbquestions": "4",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "hyperbole": {
+        "realname": "hyperbole",
+        "nbquestions": "33",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "litote": {
+        "realname": "litote",
+        "nbquestions": "17",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "metaphore": {
+        "realname": "métaphore",
+        "nbquestions": "25",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "metonymie": {
+        "realname": "métonymie",
+        "nbquestions": "17",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "oxymore": {
+        "realname": "oxymore",
+        "nbquestions": "11",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "parallelisme": {
+        "realname": "parallélisme",
+        "nbquestions": "1",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "personnification": {
+        "realname": "personnification",
+        "nbquestions": "14",
+        "image": "0",
+        "logo": "0",
+        "def": "false"
+    },
+    "preterition": {
+        "realname": "prétérition",
+        "nbquestions": "14",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    },
+    "rhetorique": {
+        "realname": "rhétorique",
+        "nbquestions": "1",
+        "image": "0",
+        "logo": "1",
+        "def": "0"
+    },
+    "zeugma": {
+        "realname": "zeugma",
+        "nbquestions": "17",
+        "image": "0",
+        "logo": "1",
+        "def": "false"
+    }
+}
